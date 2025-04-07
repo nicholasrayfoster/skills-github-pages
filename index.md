@@ -1,4 +1,3 @@
 ---
-title: Nicholas Foster
+Nicholas Foster: A Proffesional Blog
 ---
-description: A personal blog
